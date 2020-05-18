@@ -1,0 +1,23 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "JS Exel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beleks/exel-practis.git"
+  },
+  "keywords": [
+    "js",
+    "exel"
+  ],
+  "author": "Aleksey Beletsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beleks/exel-practis/issues"
+  },
+  "homepage": "https://github.com/Beleks/exel-practis#readme"
+}
